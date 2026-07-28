@@ -50,6 +50,7 @@ ul {
 .header {
   display: flex;
   padding: 8px;
+  align-items: center;
 }
 
 ul {
@@ -62,7 +63,6 @@ ul {
 .container {
   display: flex;
   gap: 16px;
-  align-items; center;
 }
 
 .left {
